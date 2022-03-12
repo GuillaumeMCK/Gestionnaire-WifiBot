@@ -6,7 +6,7 @@
 > _Ce projet est un TP réalisé en 3-4 semaine lors de ma seconde année de BTS SNIR au lycée Edmond Labbé de Douai._
 
 ## Devellopement
-L'application a été dévelloper avec VS Studio 2017 et testé (uniquement) avec le simulateur WifiBotLab.
+L'application a été dévelloper avec VS Studio 2017 et testé (uniquement) avec le simulateur [WifiBotLab](./Ressources/WifibotLab.zip).
 
 ## Usage
 ```
