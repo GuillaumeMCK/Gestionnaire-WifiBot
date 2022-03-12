@@ -11,5 +11,5 @@ L'application a été dévelloper avec VS Studio 2017 et testé (uniquement) ave
 ## Usage
 ```
 1 Lancer le gestionnaire de wifibot. 
-2 Lancer l'émulateur
+2 Lancer l'émulateur.
 ```
