@@ -1,5 +1,5 @@
 # Gestionnaire-WifiBot
-> Simple Aplication graphique en langage C# avec le framework WPF permettant de contrôler une flotte Rovers en respectant les contraintes définies par le [_sujet_](./Sujet/WIFIBOT_part4.pdf).
+> Simple Application graphique en langage C# avec WPF pour permettre de contrôler une flotte Rovers en respectant les contraintes définies par le [_sujet_](./Sujet/WIFIBOT_part4.pdf).
 >
 >![Example screenshot](./Capture.PNG)
 >
